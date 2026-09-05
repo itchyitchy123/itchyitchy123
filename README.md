@@ -1,6 +1,6 @@
 # Stephan Loesevitz
 
-Linux Systems Engineer focused on reliable hosting infrastructure, security automation, and practical developer tooling.
+Linux Systems Engineer building safer hosting automation. I design and operate Linux control planes, migration tooling, and reliability guardrails for cPanel/PHP workloads.
 
 ## What I work on
 
