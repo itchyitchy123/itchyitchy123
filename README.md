@@ -17,8 +17,8 @@ Linux Systems Engineer building safer hosting automation. I design and operate L
 | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | [StePanel](https://github.com/itchyitchy123/StePanel)                                         | Go control plane for LAMP hosting, cPanel migrations, backups, and infrastructure operations |
 | [fpm-lens](https://github.com/itchyitchy123/FPM_Lens)                                         | Explainable PHP-FPM capacity planning based on real workload and memory evidence             |
-| [fail2ban-guard](https://github.com/itchyitchy123/fail2ban-guar)                     | Safe, service-aware Fail2ban deployment and security hardening for Linux servers             |
-| [wpress_extract_plugin_cpanel](https://github.com/itchyitchy123/wpress_extract_plugin_cpanel) | WordPress `.wpress` archive extraction and migration tooling for cPanel environments         |
+| [fail2ban-guard](https://github.com/itchyitchy123/wayexpand)                     | Privacy-first Wayland text expander for Linux, written in Rust. Native GUI/CLI, snippet automation, Espanso import, and wlroots/libei/input-method backends.            |
+| [MailSwiftSync]([(https://github.com/itchyitchy123/MailSwiftSync)) | A migration control plane that makes large mailbox migrations safe, reviewable, recoverable, and provable.     |
 
 ## Currently building
 
